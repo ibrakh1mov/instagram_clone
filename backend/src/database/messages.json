@@ -1,0 +1,16 @@
+[
+    {
+        "messageId": 1,
+        "messagebody": "zor",
+        "touserId": 2,
+        "fromuserId": 1,
+        "messageCreatedAt": "Mon May 02 2022 08:57:26 GMT+0500 (O‘zbekiston standart vaqti)"
+    },
+    {
+        "messageId": 2,
+        "messagebody": "zor",
+        "touserId": 3,
+        "fromuserId": 2,
+        "messageCreatedAt": "Mon May 02 2022 08:57:49 GMT+0500 (O‘zbekiston standart vaqti)"
+    }
+]

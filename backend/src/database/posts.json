@@ -1,0 +1,38 @@
+[
+    {
+        "postId": 1,
+        "userId": 1,
+        "postTitle": "hello world",
+        "postUrl": "/posts/654004_files.png",
+        "postsize": "0.5",
+        "likes": 1,
+        "postCreatedAt": "Fri Apr 15 2022 16:17:21 GMT+0500 (O‘zbekiston standart vaqti)"
+    },
+    {
+        "postId": 2,
+        "userId": 2,
+        "postTitle": "newPost",
+        "postUrl": "/posts/855004_files.png",
+        "postsize": "0.5",
+        "likes": 0,
+        "postCreatedAt": "Sat Apr 30 2022 20:46:12 GMT+0500 (O‘zbekiston standart vaqti)"
+    },
+    {
+        "postId": 3,
+        "userId": 2,
+        "postTitle": "newPost",
+        "postUrl": "/posts/750004_py_structs.png",
+        "postsize": "1.8",
+        "likes": 0,
+        "postCreatedAt": "Sun May 01 2022 12:47:28 GMT+0500 (O‘zbekiston standart vaqti)"
+    },
+    {
+        "postId": 4,
+        "userId": 2,
+        "postTitle": "newPost",
+        "postUrl": "/posts/211450c9fba7b464ee59c9e31d5afbb94d4.mp4",
+        "postsize": "2.2",
+        "likes": 0,
+        "postCreatedAt": "Sun May 01 2022 22:13:31 GMT+0500 (O‘zbekiston standart vaqti)"
+    }
+]

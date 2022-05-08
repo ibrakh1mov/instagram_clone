@@ -1,0 +1,41 @@
+[
+    {
+        "userId": 1,
+        "username": "ali",
+        "profileImg": "/images/708004_files.png",
+        "password": "9b84b0001e3dc1eda54e7d755ed9167cca598cf6d08803f2f0b91cd9cbaf67a4",
+        "likedPosts": [
+            2
+        ],
+        "savedPosts": [],
+        "following": [],
+        "followers": [
+            3
+        ]
+    },
+    {
+        "userId": 2,
+        "username": "usmon",
+        "profileImg": "/images/429004_files.png",
+        "password": "9b84b0001e3dc1eda54e7d755ed9167cca598cf6d08803f2f0b91cd9cbaf67a4",
+        "likedPosts": [],
+        "savedPosts": [],
+        "following": [],
+        "followers": [
+            3
+        ]
+    },
+    {
+        "userId": 3,
+        "username": "yusuf",
+        "profileImg": "/images/19004_files.png",
+        "password": "9b84b0001e3dc1eda54e7d755ed9167cca598cf6d08803f2f0b91cd9cbaf67a4",
+        "likedPosts": [],
+        "savedPosts": [],
+        "following": [
+            1,
+            2
+        ],
+        "followers": []
+    }
+]

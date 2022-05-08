@@ -1,0 +1,23 @@
+[
+    {
+        "commentId": 1,
+        "userId": 1,
+        "postId": 1,
+        "commentTitle": "hello world",
+        "commentCreatedAt": "Sat Apr 30 2022 20:29:02 GMT+0500 (O‘zbekiston standart vaqti)"
+    },
+    {
+        "commentId": 2,
+        "userId": 2,
+        "postId": 3,
+        "commentTitle": "hello world",
+        "commentCreatedAt": "Sun May 01 2022 14:03:13 GMT+0500 (O‘zbekiston standart vaqti)"
+    },
+    {
+        "commentId": 3,
+        "userId": 2,
+        "postId": 3,
+        "commentTitle": "zoor",
+        "commentCreatedAt": "Sun May 01 2022 14:03:41 GMT+0500 (O‘zbekiston standart vaqti)"
+    }
+]
